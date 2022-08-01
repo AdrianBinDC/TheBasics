@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Constants &amp; Variables'/>
+        <page name='Types'/>
+        <page name='Enumerations'/>
+        <page name='Methods'/>
+        <page name='Structures &amp; Classes'/>
+        <page name='View Demo'/>
+        <page name='Protocols'/>
+        <page name='Useful Array Methods.xcplaygroundpage'/>
+    </pages>
+</playground>
